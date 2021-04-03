@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+ <html lang="pt-br">
+  <head>
+
+  <meta charset="UTF-8"/>
+
+   </head>
+    <body>
+  
+    @yield('det_registro_apagado')
+    </body>
+  </html>
